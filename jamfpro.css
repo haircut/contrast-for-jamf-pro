@@ -32,3 +32,17 @@ html, body, .jamf-list tbody td, .jamf-inner-list tbody td, .jamf-label {
     background: #FBFBFB;
 }
 
+/* Labels */
+.jamf-label.main-label, .jamf-alert .jamf-alert-message .jamf-alert-title, .jamf-form-group .jamf-form-group .section-label, .patch-remote-source-test-pane #message-wrapper .summary .summary-title {
+    color: #404040;
+}
+
+/* Menu and payload item backgrounds */
+jamf-scrollbox-sidenav .side-navigation>li.current a, .jamf-section:nth-of-type(even) {
+    background: #FBFBFB;
+}
+
+/* Rough tweak to show full opacity when "previewing" a policy before editing */
+.disabled {
+    opacity: 1 !important;
+}
