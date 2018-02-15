@@ -1,0 +1,34 @@
+* {
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue","Helvetica","Arial",sans-serif !important;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    color: #265fdf;
+}
+
+html, body, .jamf-list tbody td, .jamf-inner-list tbody td, .jamf-label {
+    color: #212121;
+}
+
+.jamf-list tbody td a, .jamf-inner-list tbody td a {
+    color: #156ed6;
+}
+
+.list-header, .jamf-tabs {
+    background: #F3F3F3;
+}
+
+.jamf-tabs li:hover a, .jamf-tabs li.active a {
+    color: #1247c1;
+}
+
+.jamf-list thead th, .jamf-inner-list thead th {
+    color: #4580c5;
+}
+
+.even, .label-value-wrapper:nth-child(even) {
+    background: #FBFBFB;
+}
+
