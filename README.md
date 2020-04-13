@@ -1,3 +1,7 @@
+# :warning: No longer maintained
+
+Recent versions of Jamf Pro have largely fixed the contrast issues within the UI. I no longer have need for this stylesheet, so I'm not using it and have discontinued development and maintenance.
+
 # contrast-for-jamf-pro
 A custom style sheet to increase contrast and legibility in Jamf Pro 10+
 
